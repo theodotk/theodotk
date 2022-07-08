@@ -33,7 +33,7 @@ The most interesting results so far: the week I joined a project that has been g
 
 ## Quantum:
 
-+ I also led a non-ML international interdisciplinary research project on quantum-assisted computation.
++ I also led a CS part of an international interdisciplinary research project on quantum-assisted computation.
 I developed architecture and a compiler for a quantum co-processor and evaluated potential computational benefits of the device.
 + In my PhD research:
   - I developed theoretical description of quantum measurement back-action and used it to control qubit state (in theory).
