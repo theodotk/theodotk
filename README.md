@@ -11,7 +11,7 @@ This repository is meant to show my progress in coding, life and the rest of 42.
 - [foobar](https://github.com/theodotk/foobar): my solutions to the medium and hard problems of the
 [Google foobar challenge](https://towardsdatascience.com/google-foobar-challenge-level-1-3487bb252780).
 Basically, these are LeetCode style problems.
-- [quantum_control](https://github.com/theodotk/quantum_control): a project,
+- [quantum_control](https://github.com/theodotk/quantum_control): a personal project,
 where I use reinforcement learning to put and hold a qubit in a state I want it to be. I also had some fun making `ipywidgets` interface to show the result.
 - In [quantum_computing](https://github.com/theodotk/quantum_computing) I experimented with `qiskit` and quantum machine learning by solving a simple IBM quantum challenge problem.
 - pennylane repo was created to fix an issue with [this pull request](https://github.com/PennyLaneAI/pennylane/pull/2686). 
