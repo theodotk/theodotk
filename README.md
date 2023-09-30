@@ -1,8 +1,6 @@
 # Hello
 
-My name is Bogdan Reznychenko, I am a Data Scientist/MLE in [Probayes](https://www.probayes.com/en/) and I have a PhD in Quantum Physics and some relevant experience in Quantum computing/algorithms.
-
-I am currently looking for a job in Machine Learning/Data Science or in Quantum Software Dev/Quantum Computing Research *in the US or Canada*. And yeah, I don't have H1B or similar.
+My name is Bogdan Reznychenko, I am a Quantum Software Engineer at [Photonic Inc](https://photonic.com/) based in Greater Vancouver area in BC, Canada. 
 
 ### This repository
 
@@ -17,14 +15,14 @@ where I use reinforcement learning to put and keep a qubit in a state I want it 
 - pennylane fork was created to fix an issue by merging [this pull request](https://github.com/PennyLaneAI/pennylane/pull/2686). You can look at it to see my work style (lots of commits for a simple problem, but I write docs and unit tests mostly without reminders).
 - divinum-officium is a slow work in progress. The original repo is a multilingual translation of Roman Catholic Mass and Office, and I forked it to add my translation into Ukrainian (that were originally in LaTeX and for a non-Roman Western rite, so some adapting is needed...).
 
-I also have [a GitLab account](https://gitlab.com/theodotk), where I participate in another book-related project, but it's not public yet.
+I also have [a GitLab account](https://gitlab.com/theodotk), where I participate in [another Divine Office project](https://gregorian-booklets.gitlab.io/vespers/), but the repo isn't public.
 
 # CV
 
 You have probably been there, but if not, go see my [LinkedIn page](https://www.linkedin.com/in/bogdan-reznychenko-phd/).
 But in short, I have worked in a client-facing role on different projects on:
 
-## ML:
+## ML @ [Probayes](https://www.probayes.com/en/):
 
 + Time series forecasting with various underlying models (neural networks, Bayesian and Hidden Markov models, more standard tools like gradient boosting, linear regression etc).
 The most interesting results so far: the week I joined a project that has been going on for half a year, I suggested a different approach, and it raised the R2 score from about 0.01 to 0.5.
@@ -33,7 +31,9 @@ The most interesting results so far: the week I joined a project that has been g
 
 ## Quantum:
 
-+ I also led a CS part of an international interdisciplinary research project on quantum-assisted computation.
++ Currently I work as a Quantum Software developer at Photonic, where I own a tool for various simulations of physics a quantum system used by the company as a quantum computer building block.
++ Also, I developed a bunch of algorithms for simplifying work with wide and deep quantum circuits for the company.
++ On my previous job I led a CS part of an international interdisciplinary research project on quantum-assisted computation.
 I developed architecture and a compiler for a quantum co-processor and evaluated potential computational benefits of the device.
 + In my PhD research:
   - I developed theoretical description of quantum measurement back-action and used it to control qubit state (in theory).
