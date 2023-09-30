@@ -15,7 +15,7 @@ where I use reinforcement learning to put and keep a qubit in a state I want it 
 - pennylane fork was created to fix an issue by merging [this pull request](https://github.com/PennyLaneAI/pennylane/pull/2686). You can look at it to see my work style (lots of commits for a simple problem, but I write docs and unit tests mostly without reminders).
 - divinum-officium is a slow work in progress. The original repo is a multilingual translation of Roman Catholic Mass and Office, and I forked it to add my translation into Ukrainian (that were originally in LaTeX and for a non-Roman Western rite, so some adapting is needed...).
 
-I also have [a GitLab account](https://gitlab.com/theodotk), where I participate in [another Divine Office project](https://gregorian-booklets.gitlab.io/vespers/), but the repo isn't public.
+I also have [a GitLab account](https://gitlab.com/theodotk), where I participate in [another Divine Office project](https://gregorian-booklets.gitlab.io/vespers/), but the repo isn't public. We basically make templates to make those pdfs with as much automation as possible.
 
 # CV
 
