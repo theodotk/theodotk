@@ -6,6 +6,7 @@ My name is Bogdan Reznychenko, I am a Quantum Software Engineer at [Photonic Inc
 
 This repository is meant to show my progress in coding, life and the rest of 42. The projects here are:
 
+- [QGhostbusters game](https://github.com/Lucas-Froguel/QGhostBusters) developed with Lucas Froguel for Quantum Games Hackaton 2023.
 - [foobar](https://github.com/theodotk/foobar): my solutions to the medium and hard problems of the
 [Google foobar challenge](https://towardsdatascience.com/google-foobar-challenge-level-1-3487bb252780).
 Basically, these are LeetCode style problems.
